@@ -1,0 +1,26 @@
+.container{
+    background-image: url("../assets/Expense.jpg");
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    width: 100vw;
+    justify-content: center;
+    align-items: center;
+    background-size: cover;
+
+
+}
+/*.buttonContainer{*/
+/*    margin-top: 20px;*/
+/*}*/
+.button{
+    margin: 10px;
+    padding: 10px 20px;
+    font-size: 18px;
+    cursor: pointer;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+
+}
